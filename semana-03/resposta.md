@@ -1,4 +1,5 @@
 1- Por que a análise de riscos em cada volta da espiral teria evitado a queda dos drones?
+
 A análise de riscos no Modelo Espiral identifica problemas técnicos antes que o sistema seja finalizado No caso do sistema de controle de drones, ela teria ajudado a identificar falhas no software de navegação
 testar problemas de comunicação entre drone e sistema verificar riscos de perda de sinal detectar erros no algoritmo de controle fazer protótipos e testes antes da implementação final
 
