@@ -8,13 +8,17 @@ testar problemas de comunicação entre drone e sistema verificar riscos de perd
 O Modelo Espiral possui 4 quadrantes em cada ciclo
 
 1- Planejamento
+
 Definir requisitos do sistema de controle de drones
 
 2- Análise de Riscos
+
 Risco de perda de sinal entre drone e sistemas
 
 3- Desenvolvimento e Testes
+
 Desenvolver o software de controle
 
 4- Avaliação
+
 Avaliar se os testes foram bem sucedidos
