@@ -95,6 +95,8 @@ Garantindo que eventuais concessões sejam:
 
 ## custo do processo judicial 
 
-- com o possivel lançamento do aplicativo teria varios custos judiciais por danos morais
-- realizar uma possivel recal do produto
-- perda de investidores, a empresa fica com uma pessima reputação
+- com o possível lançamento do aplicativo teria varios custos judiciais por danos morais
+- realizar uma possível recall do produto
+- perda de investidores, a empresa fica com uma péssima reputação
+
+  *Professor: Você adquiriu 4 softcoins!*
